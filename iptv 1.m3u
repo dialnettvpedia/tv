@@ -94,8 +94,6 @@ http://203.153.218.26:9981/stream/channelid/750664492
 http://157.119.56.249:2019/live/gratis/diemdiemaja/39.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTf0u7tj8KAqbzQjl-uMsOyoyhR3DdUjva48eJKDZfqcvEe04v" group-title="Film",AXN
 http://210.210.155.35/session/c7b7f412-514c-11e9-a349-c81f66f89318/uq2663/h/h141/index.m3u8
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/axn_global.png" tvg-id="c49f2c797fcd666531a473f4b459d32a",AXN
-rtmp://118.97.96.17:1935/discover/axn_3
 #EXTINF:-1 logo="http://tv.dekagon.id/logo/cinemax_asia.png" tvg-id="b9791283a47d42c28266afa945ca5b64",Cinemax
 http://203.153.218.26:9981/stream/channelid/51542457
 #EXTINF:-1 tvg-logo="https://id.beritasatu.com/media/images/medium2/20110114112637402.jpg" group-title="Film",Celestial Clasic Movie MY
@@ -323,10 +321,7 @@ http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/
  
 #EXTINF:-1,MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
- 
-#EXTINF:-1,ONE
-http://rtmp.one.by:1300
- 
+  
 #EXTINF:-1,M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
  
